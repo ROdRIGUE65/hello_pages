@@ -1,0 +1,10 @@
+---
+title: "My second page"
+---
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
