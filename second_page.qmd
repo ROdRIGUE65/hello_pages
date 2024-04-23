@@ -6,5 +6,10 @@ library(reactable)
 ```
 
 ```{r}
-reactable(infert)
+reactable(iris)
 ```
+
+```{r}
+plot(iris)
+```
+
